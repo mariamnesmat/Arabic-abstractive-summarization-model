@@ -1,1 +1,2 @@
 # Arabic-abstractive-summarization-model
+Successfully developed a robust solution using Arabic language models, specifically MBartForConditionalGeneration. The project involved fine-tuning the pre-trained model on a labeled dataset of Arabic paragraphs and their corresponding summaries. I optimized the model training with the appropriate optimizer and conducted several epochs to achieve high performance. Additionally, I designed utility functions to generate concise summaries for individual paragraphs.
